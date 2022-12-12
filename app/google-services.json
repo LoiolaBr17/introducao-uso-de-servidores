@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "882324699401",
+    "project_id": "controle-de-estoque-8efe6",
+    "storage_bucket": "controle-de-estoque-8efe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882324699401:android:5be631565d4d4646e2fbd8",
+        "android_client_info": {
+          "package_name": "com.apsmobile.controledeprodutos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882324699401-t0r2ijk9m6aepb9raai7qebkklt61gjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apsmobile.controledeprodutos",
+            "certificate_hash": "f4df36398090183ff8a6de05c147c4b3621e6d77"
+          }
+        },
+        {
+          "client_id": "882324699401-e7l2oqis4jhdkls7gng1tt43uft56hg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrz-EjGaq2Qf4_hj7cWrtGb2MIY9ubhXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882324699401-e7l2oqis4jhdkls7gng1tt43uft56hg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
